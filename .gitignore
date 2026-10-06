@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
+*.nc
+*.tif
+*.tiff
+*.geojson
+data/raw/
+
+.env
